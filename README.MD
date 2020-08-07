@@ -1,25 +1,20 @@
 # Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
-[Download Assignment PDF Here](PPFSQL-Homework.pdf)
+## Assignments
+* [Assignment 4](restIntro-pycharm.pdf)
 
-[View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
 
-[download Assignment Here](PPFSQL-Homework.pdf)
-[View Assignment Video Here]()
-#Postman Screenshot
-![postman request output](screenshots/postman.png)
-# SQL Data Screenshot
-![psycharm data query](screenshots/query.png)
-# Readings
-* [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-* [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
-* [What is SQL?](http://www.sqlcourse.com/intro.html)
-* [What is MySQL](https://www.hostinger.com/tutorials/what-is-mysql)
-* [What is Docker Compose?](https://www.tutorialspoint.com/docker/docker_compose.htm)
-* [What is Flask?](https://en.wikipedia.org/wiki/Flask_(web_framework))
+## Videos
+
+* [Video 4 - REST API Part 1](https://youtu.be/E1Xk5dk3Abc)  Note this is a general video I use for another class and is about the concept of REST API and is not specific to python.  The 3rd Video of this part is the specific for python
+* [Video 5 - REST API Part 2](https://youtu.be/LGNkFTE3DI8)
+* [Video 6 - Assignment 4 Project Video](https://youtu.be/bfAW4vOdz7Q)
+
 # Useful Links
 * [Flask Homepage and Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 * [JSON Spec Reference](https://www.json.org/json-en.html)
 * [SimpleJSON Reference](https://simplejson.readthedocs.io/en/latest/)
 * [W3 Schools SQL Tutorial and Reference](https://www.w3schools.com/sql/)
+
+
