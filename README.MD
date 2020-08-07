@@ -1,5 +1,5 @@
 # FINAL PROJECT 
-* [GITHUB: https://github.com/njitsuarez/FlaskDockerMySQLFINAL](https://github.com/njitsuarez/FlaskDockerMySQLFINAL)
+
 ## Word Document w/ Screen Shots (_downloadable_):
 
 * [ASSIGNMENT 3 (pycharm & localhost:5000): D/L word doc w/ screenshots. ](suarez_is218.docx)
