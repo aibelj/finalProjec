@@ -1,5 +1,5 @@
 # FINAL PROJECT 
-#This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
 ## Word Document w/ Screen Shots (_downloadable_):
 
